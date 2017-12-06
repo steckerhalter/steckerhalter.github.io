@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Debian on Steckerhalter&#39;s ƛ</title>
+    <link>https://steckerhalter.tk/tags/debian/</link>
+    <description>Recent content in Debian on Steckerhalter&#39;s ƛ</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 05 Feb 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://steckerhalter.tk/tags/debian/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Gnome Desktop UX Review</title>
+      <link>https://steckerhalter.tk/post/gnome-desktop-ux-review/</link>
+      <pubDate>Sun, 05 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://steckerhalter.tk/post/gnome-desktop-ux-review/</guid>
+      <description>&lt;p&gt;I have been working with Debian GNU/Linux (yes, GNU to acknowledge what Richard Stallman has done and is still doing to free us from proprietary software) as my desktop (or laptop) OS for many years now and I&amp;rsquo;m very happy with it.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

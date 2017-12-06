@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gnu on Steckerhalter&#39;s ƛ</title>
+    <link>https://steckerhalter.tk/tags/gnu/</link>
+    <description>Recent content in Gnu on Steckerhalter&#39;s ƛ</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 14 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://steckerhalter.tk/tags/gnu/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Shell commands with GNU sed</title>
+      <link>https://steckerhalter.tk/post/shell-commands-with-gnu-sed/</link>
+      <pubDate>Sat, 14 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://steckerhalter.tk/post/shell-commands-with-gnu-sed/</guid>
+      <description>&lt;p&gt;&lt;code&gt;sed&lt;/code&gt; is useful to replace some text on the fly. But how about processing text on the fly with shell commands instead of just replacing it with fixed content? &lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

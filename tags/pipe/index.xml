@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pipe on Steckerhalter&#39;s ƛ</title>
+    <link>https://steckerhalter.tk/tags/pipe/</link>
+    <description>Recent content in Pipe on Steckerhalter&#39;s ƛ</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 30 Dec 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://steckerhalter.tk/tags/pipe/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Download and unzip in one command</title>
+      <link>https://steckerhalter.tk/post/download-and-unzip-in-one-command/</link>
+      <pubDate>Fri, 30 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://steckerhalter.tk/post/download-and-unzip-in-one-command/</guid>
+      <description>&lt;p&gt;With &lt;code&gt;tar&lt;/code&gt; it is possible to do something like this:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;wget -O- http://example.com/my.tar.gz | tar xvz
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;This downloads and extracts the archive in one go which is of course faster than having to first download and then extract the contents. I have been annoyed that this didn&amp;rsquo;t seem possible with &lt;code&gt;zip&lt;/code&gt; files. But today I found a &amp;ldquo;trick&amp;rdquo; for exactly that:
+&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

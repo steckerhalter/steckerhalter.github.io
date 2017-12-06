@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Emacs on Steckerhalter&#39;s ƛ</title>
+    <link>https://steckerhalter.tk/categories/emacs/</link>
+    <description>Recent content in Emacs on Steckerhalter&#39;s ƛ</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 15 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://steckerhalter.tk/categories/emacs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Edititing files with Emacs via ssh and sudo</title>
+      <link>https://steckerhalter.tk/post/editing-files-via-ssh-as-another-user-with-emacs/</link>
+      <pubDate>Sun, 15 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://steckerhalter.tk/post/editing-files-via-ssh-as-another-user-with-emacs/</guid>
+      <description>&lt;p&gt;Emacs has pretty impressive remote file editing capabilites through &lt;code&gt;tramp.el&lt;/code&gt; (Transparent Remote Access, Multiple Protocol) &amp;ndash; especially via ssh. It is even possible to use git on a remote server through Emacs.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

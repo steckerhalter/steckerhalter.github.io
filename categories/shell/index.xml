@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shell on Steckerhalter&#39;s ƛ</title>
+    <link>https://steckerhalter.tk/categories/shell/</link>
+    <description>Recent content in Shell on Steckerhalter&#39;s ƛ</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 14 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://steckerhalter.tk/categories/shell/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Shell commands with GNU sed</title>
+      <link>https://steckerhalter.tk/post/shell-commands-with-gnu-sed/</link>
+      <pubDate>Sat, 14 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://steckerhalter.tk/post/shell-commands-with-gnu-sed/</guid>
+      <description>&lt;p&gt;&lt;code&gt;sed&lt;/code&gt; is useful to replace some text on the fly. But how about processing text on the fly with shell commands instead of just replacing it with fixed content? &lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>ssh Agent Forwarding</title>
+      <link>https://steckerhalter.tk/post/ssh-agent-forwarding/</link>
+      <pubDate>Sat, 07 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://steckerhalter.tk/post/ssh-agent-forwarding/</guid>
+      <description>&lt;p&gt;Quite often it is necessary to ssh via an intermediate host if the destination host is not directly accessible through ssh.  Usually people do this:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;ssh user@host1
+ssh host2
+# you&lt;span style=&#34;color:#960050;background-color:#1e0010&#34;&gt;&amp;#39;&lt;/span&gt;ll have to enter your password&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Finding unicode symbols on the shell</title>
+      <link>https://steckerhalter.tk/post/finding-unicode-symbols-on-the-shell/</link>
+      <pubDate>Sat, 31 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://steckerhalter.tk/post/finding-unicode-symbols-on-the-shell/</guid>
+      <description>&lt;p&gt;Sometimes I want to know if there is a unicode symbol for a certain topic. There is a convenient tool on the command line that allows to do exactly that. For example to find something regarding &lt;strong&gt;computer&lt;/strong&gt;:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;$ unicode computer
+U+1F4BB PERSONAL COMPUTER
+UTF-8: f0 9f 92 bb UTF-16BE: d83ddcbb Decimal: &amp;amp;#128187; Octal: \0372273
+💻
+Category: So (Symbol, Other)
+Bidi: ON (Other Neutrals)
+
+U+1F5A5 DESKTOP COMPUTER
+UTF-8: f0 9f 96 a5 UTF-16BE: d83ddda5 Decimal: &amp;amp;#128421; Octal: \0372645
+🖥
+&lt;/code&gt;&lt;/pre&gt;</description>
+    </item>
+    
+    <item>
+      <title>Download and unzip in one command</title>
+      <link>https://steckerhalter.tk/post/download-and-unzip-in-one-command/</link>
+      <pubDate>Fri, 30 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://steckerhalter.tk/post/download-and-unzip-in-one-command/</guid>
+      <description>&lt;p&gt;With &lt;code&gt;tar&lt;/code&gt; it is possible to do something like this:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;wget -O- http://example.com/my.tar.gz | tar xvz
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;This downloads and extracts the archive in one go which is of course faster than having to first download and then extract the contents. I have been annoyed that this didn&amp;rsquo;t seem possible with &lt;code&gt;zip&lt;/code&gt; files. But today I found a &amp;ldquo;trick&amp;rdquo; for exactly that:
+&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
