@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Wget on Steckerhalter&#39;s ƛ</title>
-    <link>https://steckerhalter.tk/tags/wget/</link>
+    <link>http://steckerhalter.tk/tags/wget/</link>
     <description>Recent content in Wget on Steckerhalter&#39;s ƛ</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 30 Dec 2016 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://steckerhalter.tk/tags/wget/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://steckerhalter.tk/tags/wget/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Download and unzip in one command</title>
-      <link>https://steckerhalter.tk/post/download-and-unzip-in-one-command/</link>
+      <link>http://steckerhalter.tk/post/download-and-unzip-in-one-command/</link>
       <pubDate>Fri, 30 Dec 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://steckerhalter.tk/post/download-and-unzip-in-one-command/</guid>
+      <guid>http://steckerhalter.tk/post/download-and-unzip-in-one-command/</guid>
       <description>&lt;p&gt;With &lt;code&gt;tar&lt;/code&gt; it is possible to do something like this:&lt;/p&gt;
 
 &lt;pre&gt;&lt;code&gt;wget -O- http://example.com/my.tar.gz | tar xvz

@@ -2,65 +2,65 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Steckerhalter&#39;s ƛ</title>
-    <link>https://steckerhalter.tk/categories/</link>
+    <link>http://steckerhalter.tk/categories/</link>
     <description>Recent content in Categories on Steckerhalter&#39;s ƛ</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://steckerhalter.tk/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://steckerhalter.tk/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Desktop Environment</title>
-      <link>https://steckerhalter.tk/categories/desktop-environment/</link>
+      <link>http://steckerhalter.tk/categories/desktop-environment/</link>
       <pubDate>Sun, 05 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://steckerhalter.tk/categories/desktop-environment/</guid>
+      <guid>http://steckerhalter.tk/categories/desktop-environment/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Emacs</title>
-      <link>https://steckerhalter.tk/categories/emacs/</link>
+      <link>http://steckerhalter.tk/categories/emacs/</link>
       <pubDate>Sun, 15 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://steckerhalter.tk/categories/emacs/</guid>
+      <guid>http://steckerhalter.tk/categories/emacs/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Email</title>
-      <link>https://steckerhalter.tk/categories/email/</link>
+      <link>http://steckerhalter.tk/categories/email/</link>
       <pubDate>Sun, 12 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://steckerhalter.tk/categories/email/</guid>
+      <guid>http://steckerhalter.tk/categories/email/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Linux</title>
-      <link>https://steckerhalter.tk/categories/linux/</link>
+      <link>http://steckerhalter.tk/categories/linux/</link>
       <pubDate>Sun, 05 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://steckerhalter.tk/categories/linux/</guid>
+      <guid>http://steckerhalter.tk/categories/linux/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Shell</title>
-      <link>https://steckerhalter.tk/categories/shell/</link>
+      <link>http://steckerhalter.tk/categories/shell/</link>
       <pubDate>Sat, 14 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://steckerhalter.tk/categories/shell/</guid>
+      <guid>http://steckerhalter.tk/categories/shell/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Web</title>
-      <link>https://steckerhalter.tk/categories/web/</link>
+      <link>http://steckerhalter.tk/categories/web/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://steckerhalter.tk/categories/web/</guid>
+      <guid>http://steckerhalter.tk/categories/web/</guid>
       <description></description>
     </item>
     

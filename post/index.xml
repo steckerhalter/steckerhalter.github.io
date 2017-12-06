@@ -2,57 +2,57 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Steckerhalter&#39;s ƛ</title>
-    <link>https://steckerhalter.tk/post/</link>
+    <link>http://steckerhalter.tk/post/</link>
     <description>Recent content in Posts on Steckerhalter&#39;s ƛ</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 12 Feb 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://steckerhalter.tk/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://steckerhalter.tk/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Email is not a todo list</title>
-      <link>https://steckerhalter.tk/post/email-is-not-a-todo-list/</link>
+      <link>http://steckerhalter.tk/post/email-is-not-a-todo-list/</link>
       <pubDate>Sun, 12 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://steckerhalter.tk/post/email-is-not-a-todo-list/</guid>
+      <guid>http://steckerhalter.tk/post/email-is-not-a-todo-list/</guid>
       <description>&lt;p&gt;Let&amp;rsquo;s see if I can make your life a bit easier today. I want to address email and how you deal with your email. And how it is more of a nuisance for you than it should be.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Gnome Desktop UX Review</title>
-      <link>https://steckerhalter.tk/post/gnome-desktop-ux-review/</link>
+      <link>http://steckerhalter.tk/post/gnome-desktop-ux-review/</link>
       <pubDate>Sun, 05 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://steckerhalter.tk/post/gnome-desktop-ux-review/</guid>
+      <guid>http://steckerhalter.tk/post/gnome-desktop-ux-review/</guid>
       <description>&lt;p&gt;I have been working with Debian GNU/Linux (yes, GNU to acknowledge what Richard Stallman has done and is still doing to free us from proprietary software) as my desktop (or laptop) OS for many years now and I&amp;rsquo;m very happy with it.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Edititing files with Emacs via ssh and sudo</title>
-      <link>https://steckerhalter.tk/post/editing-files-via-ssh-as-another-user-with-emacs/</link>
+      <link>http://steckerhalter.tk/post/editing-files-via-ssh-as-another-user-with-emacs/</link>
       <pubDate>Sun, 15 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://steckerhalter.tk/post/editing-files-via-ssh-as-another-user-with-emacs/</guid>
+      <guid>http://steckerhalter.tk/post/editing-files-via-ssh-as-another-user-with-emacs/</guid>
       <description>&lt;p&gt;Emacs has pretty impressive remote file editing capabilites through &lt;code&gt;tramp.el&lt;/code&gt; (Transparent Remote Access, Multiple Protocol) &amp;ndash; especially via ssh. It is even possible to use git on a remote server through Emacs.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Shell commands with GNU sed</title>
-      <link>https://steckerhalter.tk/post/shell-commands-with-gnu-sed/</link>
+      <link>http://steckerhalter.tk/post/shell-commands-with-gnu-sed/</link>
       <pubDate>Sat, 14 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://steckerhalter.tk/post/shell-commands-with-gnu-sed/</guid>
+      <guid>http://steckerhalter.tk/post/shell-commands-with-gnu-sed/</guid>
       <description>&lt;p&gt;&lt;code&gt;sed&lt;/code&gt; is useful to replace some text on the fly. But how about processing text on the fly with shell commands instead of just replacing it with fixed content? &lt;/p&gt;</description>
     </item>
     
     <item>
       <title>ssh Agent Forwarding</title>
-      <link>https://steckerhalter.tk/post/ssh-agent-forwarding/</link>
+      <link>http://steckerhalter.tk/post/ssh-agent-forwarding/</link>
       <pubDate>Sat, 07 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://steckerhalter.tk/post/ssh-agent-forwarding/</guid>
+      <guid>http://steckerhalter.tk/post/ssh-agent-forwarding/</guid>
       <description>&lt;p&gt;Quite often it is necessary to ssh via an intermediate host if the destination host is not directly accessible through ssh.  Usually people do this:&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;ssh user@host1
 ssh host2
@@ -62,10 +62,10 @@ ssh host2
     
     <item>
       <title>Google Fu</title>
-      <link>https://steckerhalter.tk/post/google-fu/</link>
+      <link>http://steckerhalter.tk/post/google-fu/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://steckerhalter.tk/post/google-fu/</guid>
+      <guid>http://steckerhalter.tk/post/google-fu/</guid>
       <description>&lt;p&gt;In years of googling have learned a few things. Most importantly:&lt;/p&gt;
 
 &lt;blockquote&gt;
@@ -78,10 +78,10 @@ ssh host2
     
     <item>
       <title>Finding unicode symbols on the shell</title>
-      <link>https://steckerhalter.tk/post/finding-unicode-symbols-on-the-shell/</link>
+      <link>http://steckerhalter.tk/post/finding-unicode-symbols-on-the-shell/</link>
       <pubDate>Sat, 31 Dec 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://steckerhalter.tk/post/finding-unicode-symbols-on-the-shell/</guid>
+      <guid>http://steckerhalter.tk/post/finding-unicode-symbols-on-the-shell/</guid>
       <description>&lt;p&gt;Sometimes I want to know if there is a unicode symbol for a certain topic. There is a convenient tool on the command line that allows to do exactly that. For example to find something regarding &lt;strong&gt;computer&lt;/strong&gt;:&lt;/p&gt;
 
 &lt;pre&gt;&lt;code&gt;$ unicode computer
@@ -99,10 +99,10 @@ UTF-8: f0 9f 96 a5 UTF-16BE: d83ddda5 Decimal: &amp;amp;#128421; Octal: \0372645
     
     <item>
       <title>Download and unzip in one command</title>
-      <link>https://steckerhalter.tk/post/download-and-unzip-in-one-command/</link>
+      <link>http://steckerhalter.tk/post/download-and-unzip-in-one-command/</link>
       <pubDate>Fri, 30 Dec 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://steckerhalter.tk/post/download-and-unzip-in-one-command/</guid>
+      <guid>http://steckerhalter.tk/post/download-and-unzip-in-one-command/</guid>
       <description>&lt;p&gt;With &lt;code&gt;tar&lt;/code&gt; it is possible to do something like this:&lt;/p&gt;
 
 &lt;pre&gt;&lt;code&gt;wget -O- http://example.com/my.tar.gz | tar xvz
