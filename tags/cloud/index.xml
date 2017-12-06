@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cloud on Steckerhalter&#39;s ƛ</title>
+    <link>http://steckerhalter.tk/tags/cloud/</link>
+    <description>Recent content in Cloud on Steckerhalter&#39;s ƛ</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 06 Dec 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://steckerhalter.tk/tags/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Syncthing for the win</title>
+      <link>http://steckerhalter.tk/post/syncthing-for-the-win/</link>
+      <pubDate>Wed, 06 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://steckerhalter.tk/post/syncthing-for-the-win/</guid>
+      <description>&lt;p&gt;For a long time I had my own server running &lt;a href=&#34;https://nextcloud.com/&#34;&gt;Nextcloud&lt;/a&gt; to sync my files to other computers and mobile devices. It was working quite well. But what if you don&amp;rsquo;t have your own server? What if you don&amp;rsquo;t &lt;strong&gt;want&lt;/strong&gt; to use a server?&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
