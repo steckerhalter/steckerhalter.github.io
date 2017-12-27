@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Programming on Steckerhalter&#39;s ƛ</title>
+    <link>http://steckerhalter.tk/tags/programming/</link>
+    <description>Recent content in Programming on Steckerhalter&#39;s ƛ</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 27 Dec 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://steckerhalter.tk/tags/programming/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The best terminal font</title>
+      <link>http://steckerhalter.tk/post/the-best-terminal-font/</link>
+      <pubDate>Wed, 27 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://steckerhalter.tk/post/the-best-terminal-font/</guid>
+      <description>I have long tried to find the best-looking font to be used with the terminal or my favorite editor Emacs, but none of all the options look as good to me as the traditional misc fixed font from the X.org server.
+It is a fixed width font and that comes with some drawbacks as it is not scalable but the quality of the font makes up for that IMO:
+This is the semicondensed variant of the font, which is rather nice.</description>
+    </item>
+    
+  </channel>
+</rss>
