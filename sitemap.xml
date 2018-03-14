@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://steckerhalter.tk/post/you-are-a-person-not-a-product/</loc>
+    <lastmod>2018-03-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://steckerhalter.tk/post/the-best-terminal-font/</loc>
     <lastmod>2017-12-27T00:00:00+00:00</lastmod>
   </url>
@@ -88,6 +93,12 @@
   </url>
   
   <url>
+    <loc>http://steckerhalter.tk/tags/decentralized/</loc>
+    <lastmod>2018-03-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://steckerhalter.tk/categories/desktop-environment/</loc>
     <lastmod>2017-02-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -106,14 +117,14 @@
   </url>
   
   <url>
-    <loc>http://steckerhalter.tk/categories/emacs/</loc>
-    <lastmod>2017-01-15T00:00:00+00:00</lastmod>
+    <loc>http://steckerhalter.tk/tags/emacs/</loc>
+    <lastmod>2017-12-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://steckerhalter.tk/tags/emacs/</loc>
-    <lastmod>2017-12-27T00:00:00+00:00</lastmod>
+    <loc>http://steckerhalter.tk/categories/emacs/</loc>
+    <lastmod>2017-01-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -202,8 +213,26 @@
   </url>
   
   <url>
+    <loc>http://steckerhalter.tk/tags/mastodon/</loc>
+    <lastmod>2018-03-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://steckerhalter.tk/tags/microblogging/</loc>
+    <lastmod>2018-03-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://steckerhalter.tk/tags/monospaced/</loc>
     <lastmod>2017-12-27T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://steckerhalter.tk/categories/openweb/</loc>
+    <lastmod>2018-03-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -233,7 +262,7 @@
   
   <url>
     <loc>http://steckerhalter.tk/post/</loc>
-    <lastmod>2017-12-27T00:00:00+00:00</lastmod>
+    <lastmod>2018-03-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -280,6 +309,12 @@
   </url>
   
   <url>
+    <loc>http://steckerhalter.tk/tags/social/</loc>
+    <lastmod>2018-03-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://steckerhalter.tk/tags/ssh/</loc>
     <lastmod>2017-01-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -287,7 +322,7 @@
   
   <url>
     <loc>http://steckerhalter.tk/</loc>
-    <lastmod>2017-12-27T00:00:00+00:00</lastmod>
+    <lastmod>2018-03-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -330,6 +365,12 @@
   <url>
     <loc>http://steckerhalter.tk/tags/tramp/</loc>
     <lastmod>2017-01-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://steckerhalter.tk/tags/twitter/</loc>
+    <lastmod>2018-03-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
